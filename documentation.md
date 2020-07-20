@@ -1,0 +1,5 @@
+- ## Getting Started
+    - [Installation](/docs/{{version}}/installation)
+    - [Configuration](/docs/{{version}}/configuration)
+    - [Directory Structure](/docs/{{version}}/structure)
+    - [New Project](/docs/{{version}}/homestead)
