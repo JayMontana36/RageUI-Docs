@@ -2,7 +2,7 @@
 
 - Create SubMenu
     - [Create a menu](#create-submenu)
-    - [Settings available](#settings-available)
+    - [Settings available](/docs/{{version}}/menu-settings)
     
 <a name="create-submenu"></a>
 ### Create a SubMenu

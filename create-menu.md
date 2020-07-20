@@ -2,7 +2,7 @@
 
 - Create Menu
     - [Create a menu](#create-menu)
-    - [Settings available](#settings-available)
+    - [Settings available](/docs/{{version}}/menu-settings)
     
 <a name="create-menu"></a>
 ### Create a menu
