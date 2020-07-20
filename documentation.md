@@ -1,6 +1,6 @@
 - ## Getting Started
     - [Installation](/docs/{{version}}/installation)
-    - [Getting Started](/docs/{{version}}/configuration)
+    - [Getting Started](/docs/{{version}}/getting-started)
 - ## Utils
    - [RMenu](/docs/{{version}}/rmenu)
    - [Keys](/docs/{{version}}/keys)
