@@ -1,3 +1,10 @@
+# Installation
+
+- [Installation](#installation)
+    - [Requirements](#requirements)
+    - [Installing RageUI](#installing-rageui)
+    - [Using RageUI](#using-rageui)
+
 <a name="installation"></a>
 ## Installation
 
@@ -22,7 +29,7 @@ Once this is done you just need to add in your server configuration the RageUI r
 
 Then you have to create your new resource in which you want to use the library, once this is done restart your server.
 
-
+<a name="using-rageui"></a>
 ### Using RageUI in your resources
 
 To use RageUI in your resources, you just need to modify the resource's manifest. 
