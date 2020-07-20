@@ -1,6 +1,6 @@
 # Installation
 
-- [Installation]()
+- [Installation]
     - [Requirements](#requirements)
     - [Installing RageUI](#installing-rageui)
     - [Using RageUI](#using-rageui)
